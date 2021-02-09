@@ -8,6 +8,8 @@ authors = ["Phil Whelan <phil123@gmail.com>"]
 python = "^3.8"
 fastai = "^2.2.5"
 seaborn = "^0.11.1"
+scikit-learn = "^0.24.1"
+tensorboard = "^2.4.1"
 
 [tool.poetry.dev-dependencies]
 jupyterlab = "^3.0.7"
